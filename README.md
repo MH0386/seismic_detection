@@ -1,1 +1,1 @@
-# seismic_detection_across_the_solar_system
+# Seismic Detection Across the Solar System
