@@ -4,5 +4,5 @@ matplotlib==3.9.2
 obspy==1.4.1
 datetime==5.5
 scikit-learn==1.5.2
-polars==1.8.1
+polars==1.8.2
 altair>=5.4.0
