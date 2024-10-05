@@ -22,3 +22,6 @@ Our solution consists of 5 steps:
 * A deep learning model consists mainly of CNN-1D, Pooling, Dropout, and BatchNormalization layers.
 * A post-processing step to focus on the area that contains the predicted seismic event is based on splitting the seismic wave into smaller windows and summing all the predictions in each window. Then, we choose the window with the highest summed predictions.
 * We then choose the timestamp that has the highest predicted value in that window.
+
+> [!IMPORTANT]  
+> Our results are saved in `CSV` file at [results file](results/predictions_results.csv). the `file_name` column structure is simply consists of **APOLLO_NUMBER**, **GRADE_LETTER** and **EVENT_ID** where **APOLLO_NUMBER** is number from 2 digits and **GRADE_LETTER** is a letter and **EVENT_ID** is a number from 5 digits.
