@@ -28,4 +28,4 @@ Our solution consists of 5 steps:
 > 
 > In the `file_name` column, files are named as {**APOLLO_NUMBER**}-{**GRADE_LETTER**}-{**EVENT_ID**}.csv
 > **APOLLO_NUMBER** is number from 2 digits and **GRADE_LETTER** is a letter and **EVENT_ID** is a number from 5 digits
-> For the first 10 rows there is no information about **APOLLO_NUMBER** and **GRADE_LETTER** due to they belong to Mars data.
+> For the first 10 rows there is no information about **APOLLO_NUMBER** and **GRADE_LETTER** due to they belong to Mars data so it just **EVENT_ID**.
