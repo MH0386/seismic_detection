@@ -23,6 +23,26 @@ Our solution consists of 5 steps:
 * A post-processing step to focus on the area that contains the predicted seismic event is based on splitting the seismic wave into smaller windows and summing all the predictions in each window. Then, we choose the window with the highest summed predictions.
 * We then choose the timestamp that has the highest predicted value in that window.
 
+## Results
+### Seismic wave:
+![image](https://github.com/user-attachments/assets/1d661b58-cea6-4009-9946-ff8be3d7888e)
+
+### Detected quake:
+![image](https://github.com/user-attachments/assets/e2e20047-a99a-4524-a106-1b09b73b0d30)
+
+### Seismic wave:
+![image](https://github.com/user-attachments/assets/3a56b647-9657-404a-b55f-43c55017736f)
+
+### Detected quake:
+![image](https://github.com/user-attachments/assets/72159f99-6732-4b77-8053-a69a81588c6f)
+
+### Seismic wave:
+![image](https://github.com/user-attachments/assets/d2aeec9d-196a-4977-befe-2dfc5c1b0fb8)
+
+### Detected quake:
+![image](https://github.com/user-attachments/assets/b096ad20-8ca1-4c50-9c1b-98e875e6e997)
+
+
 > [!IMPORTANT]  
 > Our results are saved in `CSV` file at [results file](results/predictions_results.csv)
 > 
